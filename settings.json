@@ -1,4 +1,8 @@
 {
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/Ana Pardini/Documents/Profissional/dev/vscode/theme.css"
+  ],
+  
   // workbench
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.indent": 18,
@@ -10,10 +14,6 @@
   "workbench.settings.editor": "json",
   "workbench.editor.showTabs": "none",
   "workbench.editor.highlightModifiedTabs": true,
-  "workbench.activityBar.location": "bottom",
-  "workbench.productIconTheme": "macos-modern",
-  "workbench.colorTheme": "Catppuccin Latte",
-  "workbench.statusBar.visible": false
   
   // editor
   "editor.fontSize": 14,
@@ -43,6 +43,7 @@
   "editor.hover.delay": 1500,
   "editor.hover.enabled": true,
   "editor.overviewRulerBorder": false,
+  "editor.fontFamily": "'JetbrainsMono Nerd Font', monospace",
   
   // terminal
   "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', monospace",
@@ -75,6 +76,7 @@
     "*.css": "css",
     ".dev.vars": "dotenv"
   },
+  
   // javascript
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
@@ -136,6 +138,7 @@
   },
   // json
   "json.schemas": [],
+  
   // outros
   "security.workspace.trust.untrustedFiles": "open",
   "liveServer.settings.donotShowInfoMsg": true,
@@ -150,9 +153,6 @@
   },
   "symbols.hidesExplorerArrows": false,
   "update.showReleaseNotes": false,
-  "vscode_custom_css.imports": [
-    "file:///C:/Users/Username/yourpath/theme.css"
-  ],
   "explorer.sortOrder": "foldersNestsFiles",
   "explorer.fileNesting.patterns": {
     "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*",
@@ -210,4 +210,8 @@
     ]
   },
   "glassit.alpha": 245,
+  "workbench.activityBar.location": "bottom",
+  "workbench.productIconTheme": "macos-modern",
+  "workbench.colorTheme": "Catppuccin Latte",
+  "workbench.statusBar.visible": false
 }
