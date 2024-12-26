@@ -1,3 +1,13 @@
+/**
+ * @name Catppuccin Mocha
+ * @author winston#0001
+ * @modified aninhapardini
+ * @version 0.2.0
+ * @description 🎮 Soothing pastel theme for Discord
+ * @website https://github.com/catppuccin/discord
+ * @invite r6Mdz5dpFc
+ * **/
+
 :root .theme-light {
   --brand-experiment: #89b4fa;
   --brand-experiment-100: white;
@@ -82,7 +92,7 @@
   --info-help-background: rgba(4, 165, 229, 0.15);
   --info-help-foreground: #04a5e5;
   --info-help-text: #4c4f69;
-  --status-positive-background: #40a02b;
+  --status-positive-: #40a02b;
   --status-positive-text: #eff1f5;
   --status-warning-background: #df8e1d;
   --status-warning-text: #eff1f5;
@@ -2004,7 +2014,7 @@ div[class^=callContainer] [class*=controlIcon_]:hover {
 }
 
 div[class^=callContainer] [class*=root_] {
-  background: var(--primary-dark-600);
+  background: #14141c;
 }
 
 div[class^=callContainer] div[class*=overlayTitle],
