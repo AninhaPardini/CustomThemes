@@ -9,6 +9,7 @@
   "workbench.editor.empty.hint": "hidden",
   "workbench.settings.editor": "json",
   "workbench.editor.showTabs": "none",
+  "workbench.editor.highlightModifiedTabs": true,
   // editor
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
@@ -38,8 +39,7 @@
   "editor.hover.enabled": true,
   "editor.overviewRulerBorder": false,
   // terminal
-  "terminal.integrated.fontFamily": "Jetbrains Mono",
-  // "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', monospace",
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.tabs.location": "left",
   "terminal.integrated.tabs.enabled": false,
@@ -54,7 +54,6 @@
   // window
   "window.titleBarStyle": "native",
   "window.commandCenter": false,
-  "window.nativeFullScreen": true,
   // explorer
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
@@ -143,7 +142,7 @@
   "symbols.hidesExplorerArrows": false,
   "update.showReleaseNotes": false,
   "vscode_custom_css.imports": [
-    "file:///C:/Users/Ana Pardini/Documents/Profissional/dev/vscode/theme.css"
+    "file:///C:/Users/Username/yourpath/theme.css"
   ],
   "explorer.sortOrder": "foldersNestsFiles",
   "explorer.fileNesting.patterns": {
@@ -204,5 +203,6 @@
   "glassit.alpha": 245,
   "workbench.activityBar.location": "bottom",
   "workbench.productIconTheme": "macos-modern",
-  "workbench.colorTheme": "Catppuccin Latte"
+  "workbench.colorTheme": "Catppuccin Latte",
+  "workbench.statusBar.visible": false
 }
