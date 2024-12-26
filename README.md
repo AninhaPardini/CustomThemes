@@ -1,5 +1,5 @@
 # 🪟 Windows Configs 🖌️
-I use rainmeter + dropfour 4 + Mica for Everyone to change my styles, and wallpaper that I use you can find in wallpapers folder inside repo root.
+I use rainmeter + dropfour 4 + Mica for Everyone to change my styles, and wallpaper that I use you can find in wallpapers folder here.
 
 And for produtivies features, I use PowerToys with this plugins: 
 - BrowserSearch
