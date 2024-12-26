@@ -2,7 +2,7 @@
 This is my local where I centralize all my custom themes, includes VS Code, Discord, Windows...
 
 # Discord
-You can find my theme inside repo root, with name discord.theme.css
+You can find my theme inside [Discord Theme](https://github.com/AninhaPardini/CustomThemes/tree/Discord), with name discord.theme.css
 
 Simply add into your discord clients CustomCSS file/editor.
 ```css
@@ -10,10 +10,10 @@ Simply add into your discord clients CustomCSS file/editor.
 ```
 
 # VS Code
-My settings file stay inside repo root, and I use Custom CSS and JS extension to complement styles configs.
+My settings file stay inside [VS Code Configs](https://github.com/AninhaPardini/CustomThemes/tree/VS-Code), and I use Custom CSS and JS extension to complement styles configs.
 
 # Windows
-I use rainmeter + dropfour 4 + Mica for Everyone to change my styles, and wallpaper that I use you can find in wallpapers folder inside repo root.
+I use rainmeter + dropfour 4 + Mica for Everyone to change my styles, and wallpaper that I use you can find in wallpapers folder in [Windows Configs](https://github.com/AninhaPardini/CustomThemes/tree/Windows).
 
 And for produtivies features, I use PowerToys with this plugins: 
 - BrowserSearch
