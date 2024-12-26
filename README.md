@@ -16,6 +16,8 @@ And for produtivies features, I use PowerToys with this plugins:
 - WebSearchShortcut
 - Winget
 
+You can find more plugins in [this repo](https://github.com/hlaueriksson/awesome-powertoys-run-plugins)!
+
 ## Wallpapers
 
 If you wanna view more catppuccin wallpapers, [click here]() its is oficial repo.
@@ -26,5 +28,5 @@ I use some extensions to personalize my pages:
   - [Youtube Music Web](https://github.com/catppuccin/youtubemusic)
 - Catppuccin Frape Theme
 
-You can find more plugins in [this repo](https://github.com/hlaueriksson/awesome-powertoys-run-plugins)
+
 
