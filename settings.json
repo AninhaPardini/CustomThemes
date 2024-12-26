@@ -10,6 +10,11 @@
   "workbench.settings.editor": "json",
   "workbench.editor.showTabs": "none",
   "workbench.editor.highlightModifiedTabs": true,
+  "workbench.activityBar.location": "bottom",
+  "workbench.productIconTheme": "macos-modern",
+  "workbench.colorTheme": "Catppuccin Latte",
+  "workbench.statusBar.visible": false
+  
   // editor
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
@@ -38,6 +43,7 @@
   "editor.hover.delay": 1500,
   "editor.hover.enabled": true,
   "editor.overviewRulerBorder": false,
+  
   // terminal
   "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', monospace",
   "terminal.integrated.fontWeight": "normal",
@@ -51,13 +57,16 @@
   "terminal.integrated.allowMnemonics": true,
   "terminal.integrated.gpuAcceleration": "off",
   "terminal.integrated.defaultProfile.osx": "fish",
+  
   // window
   "window.titleBarStyle": "native",
   "window.commandCenter": false,
+  
   // explorer
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
   "explorer.compactFolders": false,
+  
   // extensions
   "extensions.ignoreRecommendations": true,
   "files.associations": {
@@ -201,8 +210,4 @@
     ]
   },
   "glassit.alpha": 245,
-  "workbench.activityBar.location": "bottom",
-  "workbench.productIconTheme": "macos-modern",
-  "workbench.colorTheme": "Catppuccin Latte",
-  "workbench.statusBar.visible": false
 }
