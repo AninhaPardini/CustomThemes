@@ -1,4 +1,4 @@
-# ✨ Welcome to my Custom Themes for Windows ecossystem!
+# ✨ Welcome to my Custom Themes for Windows ecossystem! 🖌️
 This is my local where I centralize all my custom themes, includes VS Code, Discord, Windows...
 
 # Discord
