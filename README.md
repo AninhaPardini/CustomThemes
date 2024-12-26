@@ -9,13 +9,13 @@ You can find my theme and instructions inside [Discord Theme](https://github.com
 
 
 # VS Code
-My settingsand instructions file stay inside [VS Code Configs](https://github.com/AninhaPardini/CustomThemes/tree/VS-Code), and I use Custom CSS and JS extension to complement styles configs.
+My settingsand instructions file stay inside [VS Code Configs](https://github.com/AninhaPardini/CustomThemes/tree/VS-Code)
 
 <img src="./VSCodeWhite.png" alt="VS Code White Example" width="500" style="display: inline-block; margin-right: 10px;">
 <img src="./VSCodeDark.png" alt="VS Code Dark Example" width="500" style="display: inline-block;">
 
 # Windows
-I use rainmeter + dropfour 4 + Mica for Everyone to change my styles, wallpaper that I use you can find in wallpapers folder in [Windows Configs](https://github.com/AninhaPardini/CustomThemes/tree/Windows).
+My settingsand instructions file stay inside [Windows Configs](https://github.com/AninhaPardini/CustomThemes/tree/Windows).
 
 <img src="./WindowsWhite.png" alt="Windows White Example" width="500" style="display: inline-block; margin-right: 10px;">
 <img src="./WindowsDark.png" alt="Windows Dark Example" width="500" style="display: inline-block;">
