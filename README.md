@@ -16,7 +16,7 @@ And for produtivies features, I use PowerToys with this plugins:
 - WebSearchShortcut
 - Winget
 
-You can find more plugins in [this repo](https://github.com/hlaueriksson/awesome-powertoys-run-plugins)!
+You can find more plugins on [this repo](https://github.com/hlaueriksson/awesome-powertoys-run-plugins)!
 
 ## Wallpapers
 
