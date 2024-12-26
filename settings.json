@@ -1,0 +1,208 @@
+{
+  // workbench
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.tree.indent": 18,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.settings.editor": "json",
+  "workbench.editor.showTabs": "none",
+  // editor
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.tabSize": 2,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorStyle": "line",
+  "editor.fontLigatures": true,
+  "editor.renderWhitespace": "all",
+  "editor.renderControlCharacters": true,
+  "editor.renderLineHighlight": "gutter", // Aplica um sinal visual na esquerda da linha selecionada
+  "editor.wordWrap": "on",
+  "editor.fontVariations": false,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.indentation": false,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.snippetSuggestions": "top",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.accessibilitySupport": "off",
+  "editor.hideCursorInOverviewRuler": true,
+  "breadcrumbs.enabled": false,
+  "editor.hover.delay": 1500,
+  "editor.hover.enabled": true,
+  "editor.overviewRulerBorder": false,
+  // terminal
+  "terminal.integrated.fontFamily": "Jetbrains Mono",
+  // "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.env.linux": {},
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.env.osx": {},
+  "terminal.integrated.fontSize": 14,
+  "terminal.external.osxExec": "Warp.app",
+  "terminal.integrated.allowMnemonics": true,
+  "terminal.integrated.gpuAcceleration": "off",
+  "terminal.integrated.defaultProfile.osx": "fish",
+  // window
+  "window.titleBarStyle": "native",
+  "window.commandCenter": false,
+  "window.nativeFullScreen": true,
+  // explorer
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  // extensions
+  "extensions.ignoreRecommendations": true,
+  "files.associations": {
+    ".env.*": "dotenv",
+    ".prettierrc": "json",
+    "*.css": "css",
+    ".dev.vars": "dotenv"
+  },
+  // javascript
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  // typescript
+  "typescript.tsserver.log": "off",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  // css, scss e tailwind
+  "css.lint.important": "warning",
+  "scss.lint.important": "warning",
+  "tailwindCSS.experimental.classRegex": [
+    [
+      "tv\\(([^)]*)\\)",
+      "[\"'`]([^\"'`]*).*?[\"'`]"
+    ]
+  ],
+  // html
+  "[html]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    /* "editor.suggest.insertMode": "replace", */
+    /* "editor.defaultFormatter": "vscode.html-language-features", */
+    /*     "editor.formatOnSave": true,
+    "editor.formatOnPaste": true, */
+  },
+  // banco de dados
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+  "[sql]": {
+    "editor.formatOnSave": false
+  },
+  // eslint
+  // prettier
+  "prettier.singleQuote": true,
+  // git
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.openRepositoryInFParentFolders": "always",
+  // github
+  "githubIssues.queries": [
+    {
+      "label": "My Issues",
+      "query": "default"
+    },
+    {
+      "label": "Created Issues",
+      "query": "author:${user} state:open repo:${owner}/${repository} sort:created-desc"
+    },
+    {
+      "label": "Recent Issues",
+      "query": "state:open repo:${owner}/${repository} sort:updated-desc"
+    }
+  ],
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  // json
+  "json.schemas": [],
+  // outros
+  "security.workspace.trust.untrustedFiles": "open",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "breadcrumbs.showFiles": true,
+  "telemetry.telemetryLevel": "off",
+  "breadcrumbs.filePath": "off",
+  "outline.icons": false,
+  "update.mode": "default",
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "symbols.hidesExplorerArrows": false,
+  "update.showReleaseNotes": false,
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/Ana Pardini/Documents/Profissional/dev/vscode/theme.css"
+  ],
+  "explorer.sortOrder": "foldersNestsFiles",
+  "explorer.fileNesting.patterns": {
+    "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*",
+    "tailwind.config.*": "tailwind.config*, postcss.config*",
+    ".env.local": ".env*",
+    ".env": ".env*"
+  },
+  "explorer.fileNesting.enabled": true,
+  "workbench.settings.applyToAllProfiles": [
+    "workbench.colorCustomizations"
+  ],
+  "editor.linkedEditing": true,
+  "window.density.editorTabHeight": "compact",
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.enabled": false,
+  "security.allowedUNCHosts": [
+    "wsl.localhost"
+  ],
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "One Dark italic",
+        "scope": [
+          "comment",
+          "entity.other.attribute-name",
+          "keyword",
+          "markup.underline.link",
+          "storage.modifier",
+          "storage.type",
+          "string.url",
+          "variable.language.super",
+          "variable.language.this"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "name": "One Dark italic reset",
+        "scope": [
+          "keyword.operator",
+          "keyword.other.type",
+          "storage.modifier.import",
+          "storage.modifier.package",
+          "storage.type.built-in",
+          "storage.type.function.arrow",
+          "storage.type.generic",
+          "storage.type.java",
+          "storage.type.primitive"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "glassit.alpha": 245,
+  "workbench.activityBar.location": "bottom",
+  "workbench.productIconTheme": "macos-modern",
+  "workbench.colorTheme": "Catppuccin Latte"
+}
