@@ -2,7 +2,7 @@
 This is my local where I centralize all my custom themes, includes VS Code, Discord, Windows...
 
 # Discord
-You can find my theme and instructions inside [Discord Theme](https://github.com/AninhaPardini/CustomThemes/blob/Home/DiscordImage.png)
+You can find my theme and instructions inside [Discord Theme](./DiscordImage.png)
 
 ![image]()
 
